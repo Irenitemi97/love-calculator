@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(pexels-how-far-from-home-6788862.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#content-box {
+    width: 400px;
+    height: 600px;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#content-box h2 {
+    text-align: center;
+    font-size: 28;
+    font-weight: 600;
+    padding: 5px;
+}
+
+#calculate {
+    width: 150px;
+    height: 50px;
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+#resultpercentage {
+    font-size: 45px;
+}
+
+#resultmassage, #resultmassage2 {
+    text-transform: capitalize; 
+}
+
+input {
+    text-transform: capitalize;
+}
